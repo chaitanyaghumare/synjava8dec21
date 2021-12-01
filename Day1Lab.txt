@@ -1,2 +1,2 @@
-Lab1 - Eclipse ->window-> pref -> java 
-      set installed jre and compiler to java 8 or above
+
+Lab1 - create a class implements runnable and start the thread
