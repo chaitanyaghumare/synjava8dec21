@@ -1,0 +1,2 @@
+Lab1 - Eclipse ->window-> pref -> java 
+      set installed jre and compiler to java 8 or above
